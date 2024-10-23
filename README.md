@@ -4,23 +4,24 @@
 
 ## Overview
 
-This repository contains the work completed during the **Accenture North America Data Analytics and Visualization Job Simulation** on Forage in October 2024. The project involved advising a hypothetical social media client as a Data Analyst. I worked with CSV files related to content, reactions, and reaction types to analyze trends and provide strategic recommendations, including data sampling and modeling.
+This job simulation is with one of Tata Group's companies, Tata Insights and Quants or Tata iQ. I gained insight into how our passionate multi-disciplinary experts solve some of the most complex business problems using data visualisation solutions, such as Tableau and Power BI and create amazing stories which are hidden under the mountains of data generated. 
 
-## Project Deliverables
+## Task 1 : Thinking from the perspective of business leaders
 
-Key activities and deliverables include:
-- **Data Cleaning**: Cleaned and organized the datasets using **Google Sheets** to remove inconsistencies and prepare them for analysis.
-- **Data Sampling**: Applied data sampling techniques to ensure the datasets were representative and manageable for analysis.
-- **Data Analysis & Modeling**: Performed analysis in Google Sheets to uncover key insights into content performance, user reactions, and engagement trends. Created models to better understand relationships between variables and forecast outcomes.
-- **Visualization & Reporting**: Created charts and visual representations of the analysis in **Google Sheets** and **Google Slides**.
-- **Presentation**: Developed a slide deck in Google Slides and recorded a **video presentation using Loom** to communicate the findings to the client and internal stakeholders.
+An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
 
-## Datasets
+## Questions from the CEO and CMO
 
-The project utilized three main datasets:
-1. [**Content CSV**](https://docs.google.com/spreadsheets/d/1N-_B8HplRutpN21tMskid_IQNKun9mDwYaG7-o7AKws/edit?gid=820542644#gid=820542644) - Information on various content types posted on the platform.
-2. [**Reactions CSV**](https://docs.google.com/spreadsheets/d/1mqYULie6EcRahumjnn7P1d8rcjBFJDGg3kEHv6a4dJk/edit?usp=sharing) - Data on user interactions with the content.
-3. [**Reaction Types CSV**](https://docs.google.com/spreadsheets/d/1gMmFYPKTk-SoPDIT5d24nfgixqJ5irz29pbjUf6CpEI/edit?usp=sharing) - Categorization of different reaction types (e.g., likes, comments, shares).
+On the basis of this [**Dataset**](https://docs.google.com/spreadsheets/d/1OnFXDcydpqhSUbFt6XYV1ebClkvexNe2FcqJjwbs6FA/edit?usp=sharing) the CEO and CMO have asked a few questions which we as a Data Analyst have to answer.
+
+- Which region is generating the highest revenue, and which region is generating the lowest?
+- What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+- Which months generated the most revenue? Is there a seasonality in sales?
+- Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified?
+- What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
+- For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
+- What revenue is being generated from the customers who have ordered more than once?
+- Who are the customers that have repeated the most? How much are they contributing to revenue?
 
 ## Final Analysis File
 - [**Final Analysis File**](https://docs.google.com/spreadsheets/d/1b8UiwEF812rfnloRWbbFvG4xXhDG_ljOJYJCzvnIpc8/edit?gid=971338287#gid=971338287)
