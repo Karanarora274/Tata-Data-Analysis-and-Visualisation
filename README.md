@@ -25,33 +25,40 @@ On the basis of this [**Dataset**](https://docs.google.com/spreadsheets/d/1OnFXD
 
 ## Data Cleaning and Analysis
 - [**Cleaned Data**](https://docs.google.com/spreadsheets/d/1lmp3iSW8OC9Hkw89tKKwiSGD65tlvWLL67f3211cqPw/edit?usp=sharing) - This file consists of the basic data cleaning done in google sheets such as removing nulls and duplicates. This file is sufficient to answer the CEO's questions.
-- [**Repeat Customer Data**](https://docs.google.com/spreadsheets/d/19XEK8iDI__eNNuraz3JhjCBHrrRHeAMzeWy5ZCpGVwY/edit?usp=sharing) - As the data provided in this simulation does not have customer classification. I have done the customer classification in Python which can be found [**Here**](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation/blob/main/Tata%20Forage.ipynb)
+- [**Repeat Customer Data**](https://docs.google.com/spreadsheets/d/19XEK8iDI__eNNuraz3JhjCBHrrRHeAMzeWy5ZCpGVwY/edit?usp=sharing) - As the data provided in this simulation does not have customer classification. I have done the customer classification in Python which can be found [**Here**](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation/blob/main/Tata%20Forage.ipynb).
 
 ## Key Insights
 
 The analysis generated key insights, including:
-- Identification of content types that drive the highest engagement.
-- Insights into how users react to different types of content.
-- Data modeling to predict content performance based on reactions and other metrics.
-- Summary on improving content strategies based on user reaction patterns and the model's predictions.
+- The highest revenue is in the month of November.
+- The top customer as per revenue is 14646.
+- The most quantity of products is sold in Netherlands.
+- France has the most revenue.
+- The most reordered item is Regency Cakestand 3 Tier.
+- On an average reorders are done on the same day.
+- 95.02% of revenue comes from repeat customers.
+- 18% revenue comes from the top customer 14646.
 
 ## Tools & Technologies Used
 
-- **Google Sheets**: For data cleaning, sampling, analysis, modeling, and creating visual charts.
-- **Google Slides**: For preparing the presentation slides.
+- **Google Sheets**: For data cleaning.
+- **Jupyter Notebook**: For creating the repeat customer classification.
+- **Tableau**: For Data Visualisation.
+- **Canva**: For preparing the presentation slides.
 - **Loom**: For recording the video presentation.
 
 ## Slide Deck and Video
 
-- [Slide Deck](https://docs.google.com/presentation/d/1IDl1LN85aYuKcyQTnlRq6NedVUP-qq1Ryo4cKXC_RYY/edit#slide=id.p1) - Google Slides presentation summarizing the analysis.
+- [Tableau Story](https://public.tableau.com/app/profile/karan.arora8884/viz/Tata_17293990700410/Story1) - Tableau story presentation summarizing the analysis and two dashboards.
 - [Watch the video](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4) - Loom video explaining key findings and recommendations.
 
 [![Content cannot be displayed for some reason](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation/blob/main/images/Screenshot%202024-10-18%20at%2010.49.04%20(2).png)](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4)
 
 ## Conclusion
 
-Conclusion
+The Tata Forage Job Simulation provided a valuable opportunity to experience real-world tasks in a professional setting. Throughout the simulation, I applied critical business and data analysis skills to solve industry-relevant challenges, gaining insights into Tata’s approach to problem-solving and decision-making. The simulation enhanced my understanding of key concepts like data-driven strategies, process optimization, and effective communication of findings.
 
-This simulation provided hands-on experience in using data analytics, sampling, and modeling to inform business strategy. The insights and models derived from the analysis can help the client optimize content strategies and enhance user engagement.
+By completing this program, I am now better equipped to tackle complex problems and contribute meaningfully to similar roles in the future. This experience has strengthened my ability to translate data into actionable insights and present them in a clear, concise manner.
+
   
 
