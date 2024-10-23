@@ -49,8 +49,8 @@ The analysis generated key insights, including:
 
 ## Slide Deck and Video
 
-- [Tableau Story](https://public.tableau.com/app/profile/karan.arora8884/viz/Tata_17293990700410/Story1) - Tableau story presentation summarizing the analysis and two dashboards.
-- [Watch the video](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4) - Loom video explaining key findings and recommendations.
+- [**Tableau Story**](https://public.tableau.com/app/profile/karan.arora8884/viz/Tata_17293990700410/Story1) - Tableau story presentation summarizing the analysis and two dashboards.
+- [**Watch the video**](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4) - Loom video explaining key findings and recommendations.
 
 [![Content cannot be displayed for some reason](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation/blob/main/images/Screenshot%202024-10-18%20at%2010.49.04%20(2).png)](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4)
 
