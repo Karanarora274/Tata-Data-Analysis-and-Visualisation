@@ -23,8 +23,9 @@ On the basis of this [**Dataset**](https://docs.google.com/spreadsheets/d/1OnFXD
 - What revenue is being generated from the customers who have ordered more than once?
 - Who are the customers that have repeated the most? How much are they contributing to revenue?
 
-## Final Analysis File
-- [**Final Analysis File**](https://docs.google.com/spreadsheets/d/1b8UiwEF812rfnloRWbbFvG4xXhDG_ljOJYJCzvnIpc8/edit?gid=971338287#gid=971338287)
+## Data Cleaning and Analysis
+- [**Cleaned Data**](https://docs.google.com/spreadsheets/d/1lmp3iSW8OC9Hkw89tKKwiSGD65tlvWLL67f3211cqPw/edit?usp=sharing) - This file consists of the basic data cleaning done in google sheets such as removing nulls and duplicates. This file is sufficient to answer the CEO's questions.
+- [**Repeat Customer Data**](https://docs.google.com/spreadsheets/d/19XEK8iDI__eNNuraz3JhjCBHrrRHeAMzeWy5ZCpGVwY/edit?usp=sharing) - As the data provided in this simulation does not have customer classification. I have done the customer classification in Python which can be found [**Here**](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation/blob/main/Tata%20Forage.ipynb)
 
 ## Key Insights
 
