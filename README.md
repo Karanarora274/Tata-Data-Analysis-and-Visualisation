@@ -25,7 +25,6 @@ On the basis of this [**Dataset**](https://docs.google.com/spreadsheets/d/1OnFXD
 
 ## Task 2 : Preparing the data and analysing
 
-## Data Cleaning and Analysis
 - [**Cleaned Data**](https://docs.google.com/spreadsheets/d/1lmp3iSW8OC9Hkw89tKKwiSGD65tlvWLL67f3211cqPw/edit?usp=sharing) - This file consists of the basic data cleaning done in google sheets such as removing nulls and duplicates. This file is sufficient to answer the CEO's questions.
 - [**Repeat Customer Data**](https://docs.google.com/spreadsheets/d/19XEK8iDI__eNNuraz3JhjCBHrrRHeAMzeWy5ZCpGVwY/edit?usp=sharing) - As the data provided in this simulation does not have customer classification. I have done the customer classification in Python which can be found [**Here**](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation/blob/main/Tata%20Forage.ipynb).
 
@@ -51,9 +50,9 @@ The analysis generated key insights, including:
 
 ## Task 3 : Sharing the key insights derived
 
-## Slide Deck and Video
+### Slide Deck and Video
 
-- [**Tableau Story**](https://public.tableau.com/app/profile/karan.arora8884/viz/Tata_17293990700410/Story1) - Tableau story presentation summarizing the analysis and two dashboards.
+- [**Tableau Story**](https://public.tableau.com/app/profile/karan.arora8884/viz/Tata_17297407134300/Story1?publish=yes) - Tableau story presentation summarizing the analysis and two dashboards.
 - [**Watch the video**](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4) - Loom video explaining key findings and recommendations.
 
 [![Content cannot be displayed for some reason](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation/blob/main/images/Screenshot%202024-10-18%20at%2010.49.04%20(2).png)](https://www.loom.com/share/04e2c1023439449c9ba0a8584ef7e0cc?sid=2019e349-17e4-44ce-99df-859c186480f4)
